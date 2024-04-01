@@ -5,7 +5,6 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 ## Table of contents
 
 - [Overview](#overview)
-    - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
 - [My process](#my-process)
